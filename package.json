@@ -1,0 +1,17 @@
+{
+  "name": "koori-no-nukemiti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomoki Imai",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "browserify": "^13.1.1",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
